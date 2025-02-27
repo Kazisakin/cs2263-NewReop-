@@ -1,3 +1,8 @@
 My name is kazi
 I am doing cs2263 lab 4 step 4
+<<<<<<< HEAD
 Step-6 for conflict check
+=======
+Step-6
+change from bowser
+>>>>>>> 2615626696f8825adb03db6e7c7230b4f67c9197
